@@ -74,3 +74,10 @@ The repository contains the original code, refactored code, AI prompt log, and v
 - Learned how AI can assist in identifying software issues.
 - Learned the difference between blocking delay() and non-blocking millis() timing.
 - Learned how to document and verify AI-assisted solutions.
+
+## QA Resolution Tracking
+
+Issue #1 was analyzed using AI assistance. The identified blocking delay() problem was addressed by developing a refactored version using millis()-based non-blocking timing.
+
+The refactored solution is available in:
+Refactored_LED_Blinking.ino
